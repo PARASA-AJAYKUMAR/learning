@@ -1,0 +1,46 @@
+
+.background{
+background-image:url("https://d2clawv67efefq.cloudfront.net/ccbp-static-website/chatbg.png");
+background-size:cover;
+height: 560px;
+width: 420px;
+
+}
+.pbackground{
+    background-color:#47a3f3 ;
+color: white;
+    text-align: right;
+    padding: 5px;
+    height: 35px;
+    border-top-left-radius: 7px;
+    border-bottom-left-radius: 7px;
+    border-top-right-radius: 7px;
+       font-family: roboto;
+
+}
+.bg{
+color: #ffffff;
+background-color: #323f4b;
+text-align: center;
+height: 30px;
+padding: 5px;
+
+
+}
+.pbackground1{
+    background-color:#52606d ;
+    color: white;
+    text-align: left;
+ height: 35px;
+    border-top-left-radius: 7px;
+    border-bottom-right-radius: 7px;
+    border-top-right-radius: 7px;
+    padding: 5px;
+       font-family: roboto;
+}
+.h1{
+    font-family: roboto;
+    font-size: 15px;
+    font-weight: bold;
+    
+}
