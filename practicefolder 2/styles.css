@@ -1,0 +1,42 @@
+ .background{
+    background-image: url("https://d2clawv67efefq.cloudfront.net/ccbp-static-website/todolistbg.png");
+    background-size: cover;
+    background-position: center;
+    height: 600px;
+    width: 450px;
+    padding: 20px;
+ }
+ .heading{
+    font-family: 'Roboto';
+    font-size: 24px;
+    color: white;
+    text-align: center;
+   
+    
+ }
+ p{
+    font-family: 'Roboto';
+    font-size: 16px;
+    color: white;
+    
+ }
+ .button{
+    background-color: orange;
+    text-align: center;
+    color: white;
+    font-family: 'Roboto';
+    height: 30px;
+    width: 90px;
+    margin-left: 170px;
+  
+ }
+ .heading2{
+    font-family: 'Roboto';
+    font-size: 15px;
+    color: white;
+ }
+ .p2{
+    text-align: center;
+    text-decoration: underline;
+    color: white;
+ }
