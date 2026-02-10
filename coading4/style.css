@@ -1,0 +1,24 @@
+.background{
+    background-image: url(" https://d2clawv67efefq.cloudfront.net/ccbp-static-website/codingbg.png");
+    background-size: cover;
+    height: 550px;
+    width: 300px;
+    padding: 25px;
+}
+.card{
+    border-width:5px;
+    border-color: #48ee59;
+   background-color: #000000c9;
+    border-style: solid;
+    margin-top: 150px;
+     
+  
+   
+}
+.heading{
+
+    font-family: bree serif;
+    padding: 50px;
+  text-align: center;  
+   color: white;
+}
