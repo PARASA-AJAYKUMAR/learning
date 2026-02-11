@@ -5,12 +5,13 @@
     width: 300px;
     padding: 25px;
 }
-.card{
+.containercard{
     border-width:5px;
     border-color: #48ee59;
    background-color: #000000c9;
     border-style: solid;
-    margin-top: 150px;
+    color: white;
+  
      
   
    
