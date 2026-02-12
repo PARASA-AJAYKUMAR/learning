@@ -1,0 +1,52 @@
+.bg-main{
+    background-image :url("https://d2clawv67efefq.cloudfront.net/ccbp-static-website/arvrbg.png");
+    background-size: cover;
+    height: 720px;
+    width: 485px;
+
+}
+.bg-card{
+    background-color: #ffffff;
+    width: 485px;
+    height: 100px;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    padding: 20px;
+    text-align: center;
+}
+.text-main{
+    color: #5752ab;
+    font-family: bree serif;
+    font-weight: bold;
+    font-size: 30px;
+}
+.text-para{
+    color:#323f4b ;
+    font-family: roboto;
+    font-weight: bold;
+}
+.button-1{
+    background-color:#5752ab ;
+    color: #ffffff;
+    border-radius: 5px;
+    border-color: #d7dfe9;
+    height : 40px;
+     width: 120px;
+     font-family: roboto;
+     border-width:1px;
+   
+}
+.button-2{
+    background-color:#ffffff ;
+    color: #171f46;
+    border-radius: 5px;
+     border-color: #d7dfe9;
+       height : 40px;
+     width: 120px;
+         font-family: roboto;
+         margin-bottom: 20px;
+         border-width:1px;
+       
+      
+     
+}
