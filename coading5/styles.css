@@ -1,0 +1,29 @@
+.cd-bg{
+    background-color:#f6c56e ;
+    height: 180px;
+    padding: 20px;
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+}
+.cd-main{
+    background-image: url(https://d2clawv67efefq.cloudfront.net/ccbp-static-website/foodbg.png);
+    background-size: cover;
+    height: 650px;
+    width: 370px;
+    
+}
+.text{
+    color:#323f4b ;
+    font-family: 'Roboto', sans-serif;
+}
+.button{
+    background-color: #ffffff;
+  border-radius: 5px;
+  border: none;
+  font-family: roboto;
+  color:#323f4b ;
+  font-size: 15px;
+  height: 35px;
+    width: 100px;
+    
+}
