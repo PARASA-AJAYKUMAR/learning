@@ -1,0 +1,35 @@
+.bg-main{
+    background-image: url("https://d2clawv67efefq.cloudfront.net/ccbp-static-website/newsbg.png");
+    background-size: cover;
+    height: 590px;
+    width:420px;
+}
+.cd-card{
+    background-color: #ffffff;
+    width: 420px;
+    height: 300px;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    padding: 10px;
+}
+p{
+    color:#7b8794 ;
+    font-family: roboto;
+    font-size: 15px;
+
+}
+h3{
+    color: #323f4b;
+    font-family: roboto;
+
+}
+.button{
+    background-color: #323f4b;
+    color: #ffffff;
+    font-family: roboto;
+    font-size: 15px;
+    width: 110px;
+    border-radius: 5px;
+    padding: 10px;
+    border: none;
+}
