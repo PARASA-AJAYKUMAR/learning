@@ -1,0 +1,56 @@
+.bg-top{
+    background-color: #fb4e71;
+    height: 200px;
+    padding: 20px;
+    color: #fff;
+    font-family: robot;
+}
+.h1-top{
+    font-size:  30px;
+    font-weight: bold;
+    font-family: roboto;
+}
+.bg-sub{
+    background-color: #e6f6ff;
+    padding: 20px;
+}
+.bg-card{
+    background-color: white;
+    height: 132px;
+    color: #323f4b;
+   border-radius: 13px;
+   margin-bottom: 20px;
+   
+}
+.img{
+ 
+}
+.h-tag{
+    font-family: roboto;
+    font-size: 20px;
+    font-weight: bold;
+   
+}
+.sp{
+   padding-left: 10px;
+    padding-top: 10px;
+
+}
+.h3-card{
+    font-size:  20px;
+    font-weight: bold;
+    font-family: roboto;
+}
+.p-card{
+    font-size:  15px;
+    font-family: roboto;
+    text-wrap: scroll;
+}
+.d{
+    margin: 10px;
+    height: 200px;
+    width:120px;
+}
+.button{
+    margin-left: ;
+}
